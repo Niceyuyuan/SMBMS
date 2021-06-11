@@ -1,0 +1,12 @@
+
+}
+java:S1488!"[Immediately return this expression instead of assigning it to the temporary variable "age".(¹ÆŒ£ûÿÿÿÿ8Æ‚¤/
+Q
+java:S1874!"/Remove this use of "getYear"; it is deprecated.(¹ÆŒ£ûÿÿÿÿ8Æ‚¤/
+Y
+java:S1117!"7Rename "age" which hides the field declared at line 20.(¹ÆŒ£ûÿÿÿÿ8Æ‚¤/
+I
+java:S1068"'Remove this unused "age" private field.(ù—ó¿úÿÿÿÿ8›ãî£/
+Q
+java:S1874!"/Remove this use of "getYear"; it is deprecated.(¹ÆŒ£ûÿÿÿÿ8Æ‚¤/
+c	java:S107*"BConstructor has 13 parameters, which is greater than 7 authorized.(ÈÊ²şÿÿÿÿ8ïÂû£/

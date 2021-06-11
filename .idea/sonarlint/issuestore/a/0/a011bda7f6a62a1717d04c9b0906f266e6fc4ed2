@@ -1,0 +1,19 @@
+
+i
+java:S1192L"GDefine a constant instead of duplicating this literal "result" 4 times.(å±û¶øÿÿÿÿ8úÕÁ°Ÿ/
+e
+java:S11922"HDefine a constant instead of duplicating this literal "message" 3 times.(¯Å¯³8Ù‚£ˆŸ/
+f
+java:S2259"DA "NullPointerException" could be thrown; "method" is nullable here.(Û¨Åœıÿÿÿÿ8æ£¯Ÿ/
+
+java:S1989""_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(—ôÖ¢øÿÿÿÿ8ÑôÊÿ/
+E
+java:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÆìšˆŸ/
+E
+java:S1148c"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8úÕÁ°Ÿ/
+E
+java:S1148@"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÆìšˆŸ/
+h
+java:S3252_"FUse static access with "com.alibaba.fastjson.JSON" for "toJSONString".(õÏÛùÿÿÿÿ8úÕÁ°Ÿ/
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(Û¨Åœıÿÿÿÿ8æ£¯Ÿ/
